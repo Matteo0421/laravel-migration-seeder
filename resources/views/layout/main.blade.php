@@ -8,7 +8,7 @@
     <!-- Styles -->
     @vite('resources/js/app.js')
 
-    <title>Template</title>
+    <title>laravel-migration-seeder-Carola-Matteo</title>
 </head>
 <body>
     @include('partials.header')
