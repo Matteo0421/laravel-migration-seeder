@@ -1,6 +1,4 @@
 <header>
-    <h1>Header</h1>
+    <h1 class="text-center mb-5 text-success "  > CERCA IL TUO VIAGGIO</h1>
 
-    <a href="{{route('home')}}">Home</a>
-    <a href="{{route('nuova-pagina')}}">Nuova Pagina</a>
 </header>
