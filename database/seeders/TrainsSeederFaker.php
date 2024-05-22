@@ -35,3 +35,6 @@ class TrainsSeederFaker extends Seeder
         }
     }
 }
+
+
+// bisogna installare il faker tramite terminale con il comando composer require fakerphp/faker --dev

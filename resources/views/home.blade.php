@@ -46,7 +46,7 @@
   <div class="row justify-content-center">
     <div class="col-md-6">
         <!-- Aggiungi i link per navigare tra le pagine con la paginazione di Bootstrap -->
-        {{ $trains->links('pagination::bootstrap-4') }}
+        {{ $trains->links('pagination::bootstrap-5') }}
     </div>
 </div>
 
